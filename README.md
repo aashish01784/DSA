@@ -1,11 +1,11 @@
-# 🏦 Banking System — DSA Project (C++)
+#  Banking System — DSA (C++)
 
 A console-based banking system built in **C++** using **Singly and Doubly Linked Lists**.  
 This project demonstrates core Data Structures & Algorithms concepts including dynamic memory management, pointer manipulation, forward/backward traversal, and undo operations.
 
 ---
 
-## 📚 Data Structures Used
+## Data Structures Used
 
 | Structure | Role |
 |-----------|------|
@@ -18,7 +18,7 @@ This project demonstrates core Data Structures & Algorithms concepts including d
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 banking_system.cpp   ← Full source code (single file)
@@ -27,7 +27,7 @@ README.md            ← This file
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 ```
 head <-> [T1] <-> [T2] <-> [T3] <-> ... <-> [Tn] <-> tail
@@ -42,7 +42,7 @@ head <-> [T1] <-> [T2] <-> [T3] <-> ... <-> [Tn] <-> tail
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Compile
 
@@ -84,7 +84,7 @@ Account(s) with max balance: 101
 
 ---
 
-## 🎮 Command Reference
+## Command Reference
 
 | Command | Description |
 |---------|-------------|
@@ -102,7 +102,7 @@ Account(s) with max balance: 101
 
 ---
 
-## 🧩 Key Classes
+## Key Classes
 
 ### `Node` (SLL Node)
 ```
@@ -144,7 +144,7 @@ print_all_of_y() → Show all transactions for an account
 
 ---
 
-## 📝 Concepts Demonstrated
+## Concepts Demonstrated
 
 - Singly and Doubly Linked List construction from scratch  
 - Sentinel nodes for cleaner edge-case handling  
@@ -154,7 +154,7 @@ print_all_of_y() → Show all transactions for an account
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - C++11 or later  
 - Any standard compiler: `g++`, `clang++`, MSVC  
